@@ -801,7 +801,7 @@ label .grupo-opciones {
     font-size: 3.2rem;
     margin: auto;
     max-width: 320px;
-    padding: 8px 0;
+    padding: 8px;
 }
 .end p {
     font-family: var(--font-secundaria);
